@@ -40,3 +40,5 @@ Now run,
 ```bash
 streamlit run app.py
 ```
+
+### To View the navigate to https://bookrecommendationapp.streamlit.app/
