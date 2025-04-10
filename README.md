@@ -41,4 +41,4 @@ Now run,
 streamlit run app.py
 ```
 
-### To View the navigate to https://bookrecommendationapp.streamlit.app/
+### To View the app, navigate to https://bookrecommendationapp.streamlit.app/
